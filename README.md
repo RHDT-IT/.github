@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./raw/main/assets/logo.png" alt="RHDT IT Logo" width="100" height="100" />
+  <img src="./raw/main/assets/logo_white.png" alt="RHDT IT Logo" width="128" height="128" />
 
   # RHDT IT
   
